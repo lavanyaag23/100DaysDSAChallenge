@@ -26,10 +26,13 @@ This repository contains my daily progress, problem-solving journey, and consist
 │
 ├── Day-1/
 │   └── Problem1.java
+|
 ├── Day-2/
 │   └── Problem2.java
+|
 ├── Day-3/
 │   └── Problem3.java
+|
 │
 └── README.md
 
