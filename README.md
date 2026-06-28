@@ -1,96 +1,115 @@
 # 🚀 100 Days DSA Challenge
 
-Welcome to my **100 Days Data Structures & Algorithms Challenge**!  
-This repository contains my daily progress, problem-solving journey, and consistent practice to strengthen my DSA and programming skills using **Java**.
+Welcome to my **100 Days Data Structures & Algorithms Challenge** repository!
+
+This repository documents my **100-day coding journey**, where I solve Data Structures and Algorithms problems consistently using **Java**. My goal is to improve problem-solving skills, strengthen DSA concepts, and prepare for coding interviews.
 
 ---
 
-## 🎯 Goal
+## 🎯 Objectives
 
-- Build strong problem-solving skills in DSA
-- Improve coding consistency (100 days streak)
-- Prepare for coding interviews & placements
-- Track daily progress publicly on GitHub
+* Solve DSA problems consistently for 100 days
+* Strengthen problem-solving and logical thinking
+* Master core Data Structures and Algorithms
+* Prepare for coding interviews and placements
+* Track daily progress on GitHub
+
+---
+
+## ☕ Language
+
+* Java
 
 ---
 
-## 🧠 Language Used
-
-- Java ☕
-
----
 ## 📁 Repository Structure
 
+```text
 100DaysDSAChallenge/
 │
 ├── Day-1/
-│ └── Problem1.java
+│   └── Question1.java
 │
 ├── Day-2/
-│ └── Problem2.java
+│   └── Question1.java
 │
 ├── Day-3/
-│ └── Problem3.java
+│   └── Question1.java
+│
+├── ...
 │
 └── README.md
+```
 
 ---
 
-## 📌 Daily Progress
+## 📅 Progress Tracker
 
-| Day | Topic | Status |
-|-----|------|--------|
-| Day 1 | Arrays Basics - Insertion | ✅ Completed |
-| Day 2 | TBD | ⏳ In Progress |
-| Day 3 | TBD | ⏳ Pending |
-
----
-
-## 🧩 Topics Covered
-
-- Arrays
-- Strings
-- Searching & Sorting
-- Recursion
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
+| Day | Topic                      |    Status   |
+| :-: | -------------------------- | :---------: |
+|  1  | Array Insertion & Deletion | ✅ Completed |
+|  2  | Coming Soon                |  ⏳ Pending  |
+|  3  | Coming Soon                |  ⏳ Pending  |
 
 ---
 
-## 💡 Rules I Follow
+## 📚 Topics Covered
 
-- Solve at least 1–3 problems daily  
-- Write clean and optimized code  
-- Push code to GitHub every day  
-- Maintain consistency for 100 days  
-
----
-
-## 🔥 Why this repo?
-
-This repository helps me:
-- Stay consistent
-- Build strong coding discipline
-- Track improvement over time
-- Showcase my journey to recruiters
-
----
-
-## 📈 Progress Goal
-
-🎯 Target: 100 Days of Continuous Coding  
-📅 Start Date: Today  
-🏁 End Goal: Strong DSA + Interview Readiness  
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Recursion
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Graphs
+* Hashing
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
+* Bit Manipulation
 
 ---
 
-## 🙌 Connect
+## 💡 Challenge Rules
 
-If you're also doing DSA or coding practice, feel free to connect and collaborate!
+* Solve at least **one DSA problem every day**
+* Write clean and optimized Java solutions
+* Push code to GitHub daily
+* Stay consistent throughout the challenge
 
 ---
 
-⭐ If you like this repo, consider giving it a star!
+## 📈 Challenge Goal
+
+* **Duration:** 100 Days
+* **Language:** Java
+* **Focus:** Data Structures & Algorithms
+* **Goal:** Build a strong DSA foundation and improve interview readiness
+
+---
+
+## 🌟 Why This Repository?
+
+* Track my daily coding progress
+* Build coding consistency
+* Improve problem-solving skills
+* Create a strong GitHub portfolio
+* Document my learning journey
+
+---
+
+## 🤝 Connect
+
+If you're also practicing DSA or participating in a coding challenge, feel free to explore this repository and follow my journey.
+
+Happy Coding! 🚀
+
+---
+
+⭐ **If you find this repository helpful, consider giving it a star!**
+
+
+
