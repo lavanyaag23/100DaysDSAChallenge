@@ -25,20 +25,7 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 ## 📁 Repository Structure
 
 ```text
-100DaysDSAChallenge/
-│
-├── Day-1/
-│   └── Question1.java
-│
-├── Day-2/
-│   └── Question1.java
-│
-├── Day-3/
-│   └── Question1.java
-│
-├── ...
-│
-└── README.md
+100DaysDSAChallenge/ │ ├── Day-1/ │ └── Question1.java │ ├── Day-2/ │ └── Question1.java │ ├── Day-3/ │ └── Question1.java │ ├── ... │ └── README.md
 ```
 
 ---
