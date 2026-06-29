@@ -25,18 +25,34 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 ## 📁 Repository Structure
 
 ```text
-100DaysDSAChallenge/ │ ├── Day-1/ │ └── Question1.java │ ├── Day-2/ │ └── Question1.java │ ├── Day-3/ │ └── Question1.java │ ├── ... │ └── README.md
+100DaysDSAChallenge/
+│
+├── Day-1/
+│   └── Question1.java
+│
+├── Day-2/
+│   ├── Question1.java
+│
+├── Day-3/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── ...
+│
+└── README.md
 ```
+
 
 ---
 
 ## 📅 Progress Tracker
 
-| Day | Topic                      |    Status   |
-| :-: | -------------------------- | :---------: |
-|  1  | Array Insertion & Deletion | ✅ Completed |
-|  2  | Coming Soon                |  ⏳ Pending  |
-|  3  | Coming Soon                |  ⏳ Pending  |
+| Day | Topic                          |    Status   |
+| :-: | ------------------------------ | :---------: |
+|  1  | Array Insertion & Deletion     | ✅ Completed |
+|  2  | Linear Search & Missing Number | ✅ Completed |
+|  3  | Coming Soon                    |  ⏳ Pending  |
+
 
 ---
 
