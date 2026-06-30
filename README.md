@@ -25,18 +25,39 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 ## 📁 Repository Structure
 
 ```text
-100DaysDSAChallenge/ │ ├── Day-1/ │ └── Question1.java │ ├── Day-2/ │ └── Question1.java │ ├── Day-3/ │ └── Question1.java │ ├── ... │ └── README.md
+100DaysDSAChallenge/
+│
+├── Day-1/
+│   └── Question1.java
+│
+├── Day-2/
+│   ├── Question1.java
+│
+├── Day-3/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── ...
+│
+└── README.md
 ```
+
 
 ---
 
+
 ## 📅 Progress Tracker
 
-| Day | Topic                      |    Status   |
-| :-: | -------------------------- | :---------: |
-|  1  | Array Insertion & Deletion | ✅ Completed |
-|  2  | Coming Soon                |  ⏳ Pending  |
-|  3  | Coming Soon                |  ⏳ Pending  |
+|     Day     | Problems Solved                                                                  |    Status   |
+| :---------: | -------------------------------------------------------------------------------- | :---------: |
+|  **Day 1**  | Insert an Element in an Array , Two Sum (LeetCode)                            | ✅ Completed |
+|  **Day 2**  | Delete an Element from an Array , Best Time to Buy and Sell Stock (LeetCode)  | ✅ Completed |
+|  **Day 3**  | Linear Search with Comparison Count, Missing Number in Array (GeeksforGeeks) | ✅ Completed |
+|  **Day 4**  | Coming Soon                                                                      |  ⏳ Pending  |
+|  **Day 5**  | Coming Soon                                                                      |  ⏳ Pending  |
+|   **...**   | ...                                                                              |     ...     |
+| **Day 100** | Coming Soon                                                                      |  ⏳ Pending  |
+
 
 ---
 
