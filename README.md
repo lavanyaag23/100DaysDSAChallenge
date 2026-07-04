@@ -50,6 +50,9 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 │   └── Question1.java
 │
 ├── Day-7/
+│   └── Question1.java
+│
+├── Day-8/
 │   ├── Question1.java
 │
 ├── ...
@@ -69,8 +72,9 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 |  **Day 4**  | Reverse an Array using Two-Pointer Approach                                  | ✅ Completed |
 |  **Day 5**  | Merge Sorted Array (LeetCode), Merge Two Sorted Arrays                       | ✅ Completed |
 |  **Day 6**  | Remove Duplicates from Sorted Array                                          | ✅ Completed |
-|  **Day 7**  |  Recursive Fibonacci                                                         | ✅ Completed |
-|  **Day 8**  | Coming Soon                                                                  |  ⏳ Pending  |
+|  **Day 7**  | Recursive Fibonacci                                                          | ✅ Completed |
+|  **Day 8**  | Power Using Recursion                               | ✅ Completed |
+|  **Day 9**  | Coming Soon                                                                  |  ⏳ Pending  |
 |   **...**   | ...                                                                          |     ...     |
 | **Day 100** | Coming Soon                                                                  |  ⏳ Pending  |
 
