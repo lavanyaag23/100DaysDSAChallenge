@@ -29,11 +29,9 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 │
 ├── Day-1/
 │   ├── Question1.java
-│   └── Question2.java
 │
 ├── Day-2/
 │   ├── Question1.java
-│   └── Question2.java
 │
 ├── Day-3/
 │   ├── Question1.java
@@ -44,15 +42,17 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 │
 ├── Day-5/
 │   ├── Question1.java
-│   └── Question2.java
 │
 ├── Day-6/
 │   └── Question1.java
 │
 ├── Day-7/
-│   └── Question1.java
+│   ├── Question1.java
 │
 ├── Day-8/
+│   ├── Question1.java
+│
+├── Day-9/
 │   ├── Question1.java
 │
 ├── ...
@@ -69,12 +69,13 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 |  **Day 1**  | Insert an Element in an Array, Two Sum (LeetCode)                            | ✅ Completed |
 |  **Day 2**  | Delete an Element from an Array, Best Time to Buy and Sell Stock (LeetCode)  | ✅ Completed |
 |  **Day 3**  | Linear Search with Comparison Count, Missing Number in Array (GeeksforGeeks) | ✅ Completed |
-|  **Day 4**  | Reverse an Array using Two-Pointer Approach                                  | ✅ Completed |
+|  **Day 4**  | Reverse an Array Using Two-Pointer Approach                                  | ✅ Completed |
 |  **Day 5**  | Merge Sorted Array (LeetCode), Merge Two Sorted Arrays                       | ✅ Completed |
 |  **Day 6**  | Remove Duplicates from Sorted Array                                          | ✅ Completed |
-|  **Day 7**  | Recursive Fibonacci                                                          | ✅ Completed |
-|  **Day 8**  | Power Using Recursion                               | ✅ Completed |
-|  **Day 9**  | Coming Soon                                                                  |  ⏳ Pending  |
+|  **Day 7**  | Fibonacci Number (LeetCode), Recursive Fibonacci                             | ✅ Completed |
+|  **Day 8**  | Power of Two (LeetCode), Power Using Recursion                               | ✅ Completed |
+|  **Day 9**  | Reverse String (LeetCode), Reverse String Using Recursion                    | ✅ Completed |
+|  **Day 10** | Coming Soon                                                                  |  ⏳ Pending  |
 |   **...**   | ...                                                                          |     ...     |
 | **Day 100** | Coming Soon                                                                  |  ⏳ Pending  |
 
@@ -86,7 +87,9 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 * Strings
 * Searching
 * Sorting
+* Two Pointers
 * Recursion
+* Bit Manipulation
 * Linked Lists
 * Stacks
 * Queues
@@ -96,7 +99,6 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 * Dynamic Programming
 * Greedy Algorithms
 * Backtracking
-* Bit Manipulation
 
 ---
 
@@ -105,7 +107,7 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 * Solve at least **one DSA problem every day**
 * Write clean and optimized Java solutions
 * Push code to GitHub daily
-* Stay consistent throughout the challenge
+* Maintain consistency throughout the challenge
 
 ---
 
