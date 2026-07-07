@@ -54,6 +54,82 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 │
 ├── Day-9/
 │   ├── Question1.java
+├── Day-10/
+│   ├── Question1.java
+│
+├── ...
+│
+└── README.md
+```
+
+---
+
+# 🚀 100 Days DSA Challenge
+
+Welcome to my **100 Days Data Structures & Algorithms Challenge** repository!
+
+This repository documents my **100-day coding journey**, where I solve Data Structures and Algorithms problems consistently using **Java**. My goal is to improve problem-solving skills, strengthen DSA concepts, and prepare for coding interviews.
+
+---
+
+## 🎯 Objectives
+
+* Solve DSA problems consistently for 100 days
+* Strengthen problem-solving and logical thinking
+* Master core Data Structures and Algorithms
+* Prepare for coding interviews and placements
+* Track daily progress on GitHub
+
+---
+
+## ☕ Language
+
+* Java
+
+---
+
+## 📁 Repository Structure
+
+```text
+100DaysDSAChallenge/
+│
+├── Day-1/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── Day-2/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── Day-3/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── Day-4/
+│   └── Question1.java
+│
+├── Day-5/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── Day-6/
+│   └── Question1.java
+│
+├── Day-7/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── Day-8/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── Day-9/
+│   ├── Question1.java
+│   └── Question2.java
+│
+├── Day-10/
+│   ├── Question1.java
+│   └── Question2.java
 │
 ├── ...
 │
@@ -64,22 +140,82 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 
 ## 📅 Progress Tracker
 
-|     Day     | Problems Solved                                                              |    Status   |
-| :---------: | ---------------------------------------------------------------------------- | :---------: |
-|  **Day 1**  | Insert an Element in an Array, Two Sum (LeetCode)                            | ✅ Completed |
-|  **Day 2**  | Delete an Element from an Array, Best Time to Buy and Sell Stock (LeetCode)  | ✅ Completed |
-|  **Day 3**  | Linear Search with Comparison Count, Missing Number in Array (GeeksforGeeks) | ✅ Completed |
-|  **Day 4**  | Reverse an Array Using Two-Pointer Approach                                  | ✅ Completed |
-|  **Day 5**  | Merge Sorted Array (LeetCode), Merge Two Sorted Arrays                       | ✅ Completed |
-|  **Day 6**  | Remove Duplicates from Sorted Array                                          | ✅ Completed |
-|  **Day 7**  | Fibonacci Number (LeetCode), Recursive Fibonacci                             | ✅ Completed |
-|  **Day 8**  | Power of Two (LeetCode), Power Using Recursion                               | ✅ Completed |
-|  **Day 9**  | Reverse String (LeetCode), Reverse String Using Recursion                    | ✅ Completed |
-|  **Day 10** | Coming Soon                                                                  |  ⏳ Pending  |
-|   **...**   | ...                                                                          |     ...     |
-| **Day 100** | Coming Soon                                                                  |  ⏳ Pending  |
+|     Day     | Problems Solved                                                               |    Status   |
+| :---------: | ----------------------------------------------------------------------------- | :---------: |
+|  **Day 1**  | Insert an Element in an Array, Two Sum (LeetCode)                             | ✅ Completed |
+|  **Day 2**  | Delete an Element from an Array, Best Time to Buy and Sell Stock (LeetCode)   | ✅ Completed |
+|  **Day 3**  | Linear Search with Comparison Count, Missing Number in Array (GeeksforGeeks)  | ✅ Completed |
+|  **Day 4**  | Reverse an Array Using Two-Pointer Approach                                   | ✅ Completed |
+|  **Day 5**  | Merge Sorted Array (LeetCode), Merge Two Sorted Arrays                        | ✅ Completed |
+|  **Day 6**  | Remove Duplicates from Sorted Array                                           | ✅ Completed |
+|  **Day 7**  | Fibonacci Number (LeetCode), Recursive Fibonacci                              | ✅ Completed |
+|  **Day 8**  | Power of Two (LeetCode), Power Using Recursion                                | ✅ Completed |
+|  **Day 9**  | Reverse String (LeetCode), Reverse String Using Recursion                     | ✅ Completed |
+|  **Day 10** | Intersection of Two Arrays II (LeetCode), Palindrome Check Using Two Pointers | ✅ Completed |
+|  **Day 11** | Coming Soon                                                                   |  ⏳ Pending  |
+|   **...**   | ...                                                                           |     ...     |
+| **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
 
 ---
+
+## 📚 Topics Covered
+
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Two Pointers
+* Recursion
+* Bit Manipulation
+* Hashing
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
+
+---
+
+## 💡 Challenge Rules
+
+* Solve at least **one DSA problem every day**
+* Write clean and optimized Java solutions
+* Push code to GitHub daily
+* Maintain consistency throughout the challenge
+
+---
+
+## 📈 Challenge Goal
+
+* **Duration:** 100 Days
+* **Language:** Java
+* **Focus:** Data Structures & Algorithms
+* **Goal:** Build a strong DSA foundation and improve interview readiness
+
+---
+
+## 🌟 Why This Repository?
+
+* Track my daily coding progress
+* Build coding consistency
+* Improve problem-solving skills
+* Create a strong GitHub portfolio
+* Document my learning journey
+
+---
+
+## 🤝 Connect
+
+If you're also practicing DSA or participating in a coding challenge, feel free to explore this repository and follow my journey.
+
+**Happy Coding! 🚀**
+
+---
+
+⭐ **If you find this repository helpful, consider giving it a star!**
 
 ## 📚 Topics Covered
 
