@@ -21,7 +21,6 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 * Java
 
 ---
-
 ## 📁 Repository Structure
 
 ```text
@@ -61,11 +60,14 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 ├── Day-11/
 │   ├── Question1.java
 │
+├── Day-12/
+│   ├── Question1.java
+│   └── Question2.java
+│
 ├── ...
 │
 └── README.md
 ```
-
 
 ## 📅 Progress Tracker
 
@@ -82,9 +84,11 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 |  **Day 9**  | Reverse String (LeetCode), Reverse String Using Recursion                     | ✅ Completed |
 |  **Day 10** | Intersection of Two Arrays II (LeetCode), Palindrome Check Using Two Pointers | ✅ Completed |
 |  **Day 11** | Matrix Addition                                                               | ✅ Completed |
-|  **Day 12** | Coming Soon                                                                   |  ⏳ Pending  |
+|  **Day 12** | Toeplitz Matrix (LeetCode), Symmetric Matrix Check                            | ✅ Completed |
+|  **Day 13** | Coming Soon                                                                   |  ⏳ Pending  |
 |   **...**   | ...                                                                           |     ...     |
 | **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
+
 
 ## 📚 Topics Covered
 
