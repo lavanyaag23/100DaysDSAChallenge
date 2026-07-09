@@ -62,7 +62,8 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 │
 ├── Day-12/
 │   ├── Question1.java
-│   └── Question2.java
+├── Day-13/
+│   ├── Question1.java
 │
 ├── ...
 │
@@ -85,7 +86,8 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 |  **Day 10** | Intersection of Two Arrays II (LeetCode), Palindrome Check Using Two Pointers | ✅ Completed |
 |  **Day 11** | Matrix Addition                                                               | ✅ Completed |
 |  **Day 12** | Toeplitz Matrix (LeetCode), Symmetric Matrix Check                            | ✅ Completed |
-|  **Day 13** | Coming Soon                                                                   |  ⏳ Pending  |
+|  **Day 13** | Spiral Matrix (LeetCode), Spiral Matrix Traversal                             | ✅ Completed |
+|  **Day 14** | Coming Soon                                                                   |  ⏳ Pending  |
 |   **...**   | ...                                                                           |     ...     |
 | **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
 
