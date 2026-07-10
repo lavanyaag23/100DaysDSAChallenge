@@ -64,7 +64,8 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 │   ├── Question1.java
 ├── Day-13/
 │   ├── Question1.java
-│
+├── Day-14/
+│   ├── Question1.java
 ├── ...
 │
 └── README.md
@@ -88,9 +89,11 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 |  **Day 11** | Matrix Addition                                                               | ✅ Completed |
 |  **Day 12** | Toeplitz Matrix (LeetCode), Symmetric Matrix Check                            | ✅ Completed |
 |  **Day 13** | Spiral Matrix (LeetCode), Spiral Matrix Traversal                             | ✅ Completed |
-|  **Day 14** | Coming Soon                                                                   |  ⏳ Pending  |
+|  **Day 14** | Rotate Image (LeetCode), Identity Matrix Check                                | ✅ Completed |
+|  **Day 15** | Coming Soon                                                                   |  ⏳ Pending  |
 |   **...**   | ...                                                                           |     ...     |
 | **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
+
 
 
 ## 📚 Topics Covered
