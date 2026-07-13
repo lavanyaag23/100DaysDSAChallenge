@@ -21,6 +21,16 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 * Java
 
 ---
+
+---
+
+## 📝 Note
+
+This repository contains only the **GFG/VS Code practice problems** completed during my 100 Days DSA Challenge.
+
+All **LeetCode solutions** are maintained separately in my dedicated **LeetCode repository** to keep both repositories organized.
+
+---
 ## 📁 Repository Structure
 
 ```text
@@ -68,6 +78,10 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 │   ├── Question1.java
 ├── Day-15/
 │   ├── Question1.java
+│
+├── Day-16/
+│   ├── Question1.java
+│
 ├── ...
 │
 └── README.md
@@ -93,8 +107,8 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 |  **Day 13** | Spiral Matrix (LeetCode), Spiral Matrix Traversal                             | ✅ Completed |
 |  **Day 14** | Rotate Image (LeetCode), Identity Matrix Check                                | ✅ Completed |
 |  **Day 15** | Set Matrix Zeroes (LeetCode), Primary Diagonal Sum                            | ✅ Completed |
-|  **Day 16** | Coming Soon                                                                   |  ⏳ Pending  |
-|   **...**   | ...                                                                           |     ...     |
+|  **Day 16** | Frequency Count of Array Elements                                             | ✅ Completed |
+|   **...**   | ...                                                                           |     ...       |
 | **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
 
 
