@@ -81,6 +81,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │
 ├── Day-16/
 │   ├── Question1.java
+├── Day-17/
+│   ├── Question1.java
 │
 ├── ...
 │
@@ -108,6 +110,7 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 14** | Rotate Image (LeetCode), Identity Matrix Check                                | ✅ Completed |
 |  **Day 15** | Set Matrix Zeroes (LeetCode), Primary Diagonal Sum                            | ✅ Completed |
 |  **Day 16** | Frequency Count of Array Elements                                             | ✅ Completed |
+|  **Day 17** | Maximum and Minimum Element in an Array                                       | ✅ Completed |
 |   **...**   | ...                                                                           |     ...       |
 | **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
 
