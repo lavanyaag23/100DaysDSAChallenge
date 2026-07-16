@@ -88,6 +88,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   ├── Question1.java
 ├── Day-19/
 │   ├── Question1.java
+├── Day-20/
+│   ├── Question1.java
 │
 ├── ...
 │
@@ -118,8 +120,9 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 17** | Maximum and Minimum Element in an Array                                       | ✅ Completed |
 |  **Day 18** | Array Rotation by K Positions                                                 | ✅ Completed |
 |  **Day 19** | Pair Sum Closest to Zero, Maximum Sum Circular Subarray (LeetCode)            | ✅ Completed |
+|  **Day 20** | Zero Sum Subarray Count, 3Sum (LeetCode)                                      | ✅ Completed |
 |   **...**   | ...                                                                           |     ...      |
-| **Day 100** | Coming Soon                                                                   | ⏳ Pending |
+| **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
 ## 📚 Topics Covered
 
