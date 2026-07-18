@@ -78,21 +78,22 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   ├── Question1.java
 ├── Day-15/
 │   ├── Question1.java
-│
 ├── Day-16/
 │   ├── Question1.java
 ├── Day-17/
 │   ├── Question1.java
-│
 ├── Day-18/
 │   ├── Question1.java
 ├── Day-19/
 │   ├── Question1.java
 ├── Day-20/
 │   ├── Question1.java
+├── Day-21/
+│   ├── Question1.java
+├── Day-22/
+│   ├── Question1.java
 │
 ├── ...
-│
 └── README.md
 
 ```
@@ -121,7 +122,10 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 18** | Array Rotation by K Positions                                                 | ✅ Completed |
 |  **Day 19** | Pair Sum Closest to Zero, Maximum Sum Circular Subarray (LeetCode)            | ✅ Completed |
 |  **Day 20** | Zero Sum Subarray Count, 3Sum (LeetCode)                                      | ✅ Completed |
-|   **...**   | ...                                                                           |     ...      |
+|  **Day 21** | Create and Traverse Singly Linked List                                        | ✅ Completed |
+|  **Day 22** | Count Nodes in Linked List                                                    | ✅ Completed |
+|  **Day 23** | Coming Soon                                                                   | ⏳ Pending   |
+|   **...**   | ...                                                                           |     ...       |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
 ## 📚 Topics Covered
