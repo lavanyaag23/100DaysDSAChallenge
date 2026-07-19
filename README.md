@@ -92,6 +92,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   ├── Question1.java
 ├── Day-22/
 │   ├── Question1.java
+├── Day-23/
+│   ├── Question1.java
 │
 ├── ...
 └── README.md
@@ -124,8 +126,9 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 20** | Zero Sum Subarray Count, 3Sum (LeetCode)                                      | ✅ Completed |
 |  **Day 21** | Create and Traverse Singly Linked List                                        | ✅ Completed |
 |  **Day 22** | Count Nodes in Linked List                                                    | ✅ Completed |
-|  **Day 23** | Coming Soon                                                                   | ⏳ Pending   |
-|   **...**   | ...                                                                           |     ...       |
+|  **Day 23** | Merge Two Sorted Linked Lists                                                 | ✅ Completed |
+|  **Day 24** | Coming Soon                                                                   | ⏳ Pending   |
+|   **...**   | ...                                                                           |     ...      |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
 ## 📚 Topics Covered
