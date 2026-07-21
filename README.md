@@ -94,10 +94,11 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   ├── Question1.java
 ├── Day-23/
 │   ├── Question1.java
+├── Day-24/
+│   ├── Question1.java
 │
 ├── ...
 └── README.md
-
 ```
 
 ## 📅 Progress Tracker
@@ -127,7 +128,9 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 21** | Create and Traverse Singly Linked List                                        | ✅ Completed |
 |  **Day 22** | Count Nodes in Linked List                                                    | ✅ Completed |
 |  **Day 23** | Merge Two Sorted Linked Lists                                                 | ✅ Completed |
-|  **Day 24** | Coming Soon                                                                   | ⏳ Pending   |
+|  **Day 23** | Merge Two Sorted Linked Lists                                                 | ✅ Completed |
+|  **Day 24** | Delete First Occurrence of a Key in Linked List                               | ✅ Completed |
+|  **Day 25** | Coming Soon                                                                   | ⏳ Pending   |
 |   **...**   | ...                                                                           |     ...      |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
