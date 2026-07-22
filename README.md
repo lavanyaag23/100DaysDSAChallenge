@@ -98,6 +98,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   ├── Question1.java
 ├── Day-25/
 │   ├── Question1.java
+├── Day-26/
+│   ├── Question1.java
 │
 ├── ...
 └── README.md
@@ -133,7 +135,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 23** | Merge Two Sorted Linked Lists                                                 | ✅ Completed |
 |  **Day 24** | Delete First Occurrence of a Key in Linked List                               | ✅ Completed |
 |  **Day 25** | Count Occurrences of an Element in Linked List                                | ✅ Completed |
-|  **Day 26** | Coming Soon                                                                   | ⏳ Pending   |
+|  **Day 26** | Doubly Linked List Insertion and Traversal                                    | ✅ Completed |
+|  **Day 27** | Coming Soon                                                                   | ⏳ Pending   |
 |   **...**   | ...                                                                           |     ...       |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
