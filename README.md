@@ -22,8 +22,6 @@ This repository documents my **100-day coding journey**, where I solve Data Stru
 
 ---
 
----
-
 ## 📝 Note
 
 This repository contains only the **GFG/VS Code practice problems** completed during my 100 Days DSA Challenge.
@@ -103,6 +101,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ├── Day_27/
 |   ├── Question1.java 
 |   └── Question2.java
+├── Day_28/
+|   └── Question1.java
 │
 ├── ...
 └── README.md
@@ -140,6 +140,7 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 25** | Count Occurrences of an Element in Linked List                                | ✅ Completed |
 |  **Day 26** | Doubly Linked List Insertion and Traversal                                    | ✅ Completed |
 | **Day 27** | Remove Loop in Linked List, Find Intersection Point of Two Linked Lists        | ✅ Completed |
+| **Day 28** | Circular Linked List Creation and Traversal                                    | ✅ Completed |
 |   **...**   | ...                                                                           |     ...       |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
