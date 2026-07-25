@@ -103,6 +103,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |   └── Question2.java
 ├── Day_28/
 |   └── Question1.java
+├── Day_29/
+|   └── Question1.java
 │
 ├── ...
 └── README.md
@@ -141,6 +143,7 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 26** | Doubly Linked List Insertion and Traversal                                    | ✅ Completed |
 | **Day 27** | Remove Loop in Linked List, Find Intersection Point of Two Linked Lists        | ✅ Completed |
 | **Day 28** | Circular Linked List Creation and Traversal                                    | ✅ Completed |
+|  **Day 29** |  Rotate Linked List Right by K Places                                         | ✅ Completed |
 |   **...**   | ...                                                                           |     ...       |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
