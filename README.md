@@ -105,7 +105,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |   └── Question1.java
 ├── Day_29/
 |   └── Question1.java
-│
+├── Day_30/
+|   └── Question1.java
 ├── ...
 └── README.md
 ```
@@ -144,7 +145,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 | **Day 27** | Remove Loop in Linked List, Find Intersection Point of Two Linked Lists        | ✅ Completed |
 | **Day 28** | Circular Linked List Creation and Traversal                                    | ✅ Completed |
 |  **Day 29** |  Rotate Linked List Right by K Places                                         | ✅ Completed |
-|   **...**   | ...                                                                           |     ...       |
+|  **Day 30** | Polynomial Using Linked List                                                  | ✅ Completed |
+|   **...**   | ...                                                                           |     ...      |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
 
 ## 📚 Topics Covered
