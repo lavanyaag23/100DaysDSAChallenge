@@ -70,49 +70,74 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │
 ├── Day-12/
 │   ├── Question1.java
+│
 ├── Day-13/
 │   ├── Question1.java
+│
 ├── Day-14/
 │   ├── Question1.java
+│
 ├── Day-15/
 │   ├── Question1.java
+│
 ├── Day-16/
 │   ├── Question1.java
+│
 ├── Day-17/
 │   ├── Question1.java
+│
 ├── Day-18/
 │   ├── Question1.java
+│
 ├── Day-19/
 │   ├── Question1.java
+│
 ├── Day-20/
 │   ├── Question1.java
+│
 ├── Day-21/
 │   ├── Question1.java
+│
 ├── Day-22/
 │   ├── Question1.java
+│
 ├── Day-23/
 │   ├── Question1.java
+│
 ├── Day-24/
 │   ├── Question1.java
+│
 ├── Day-25/
 │   ├── Question1.java
+│
 ├── Day-26/
 │   ├── Question1.java
+│
 ├── Day_27/
-|   ├── Question1.java 
-|   └── Question2.java
+│   ├── Question1.java
+│   └── Question2.java
+│
 ├── Day_28/
-|   └── Question1.java
+│   └── Question1.java
+│
 ├── Day_29/
-|   └── Question1.java
+│   └── Question1.java
+│
 ├── Day_30/
-|   └── Question1.java
+│   └── Question1.java
+│
 ├── Day_31/
-|   └── Question1.java
+│   └── Question1.java
+│
 ├── Day_32/
-|   └── Question1.java
+│   └── Question1.java
+│
 ├── Day_33/
-|   └── Question1.java
+│   └── Question1.java
+│
+├── Day_34/
+│   └── Question1.java
+│
 ├── ...
 └── README.md
 ```
@@ -154,10 +179,12 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 | **Day 31** | Implement Stack Using Array (Push, Pop, Display)                               | ✅ Completed |
 | **Day 32** | Stack Push and Pop Operations                                                  | ✅ Completed |
 | **Day 33** | Infix to Postfix Conversion Using Stack                                        | ✅ Completed |
-|   **...**  | ...                                                                            |     ...      |
+| **Day 34** | Evaluate Postfix Expression Using Stack                                        | ✅ Completed |
+| **...**    | ...                                                                            |      ...     |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
-## 📚 Topics Covered
 
+
+## 📚 Topics Covered
 * Arrays
 * Strings
 * Searching
@@ -165,8 +192,11 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Two Pointers
 * Recursion
 * Bit Manipulation
+* Matrices
 * Linked Lists
 * Stacks
+* Expression Conversion (Infix → Postfix)
+* Expression Evaluation (Postfix)
 * Queues
 * Trees
 * Graphs
@@ -174,7 +204,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Dynamic Programming
 * Greedy Algorithms
 * Backtracking
-
 ---
 
 ## 💡 Challenge Rules
