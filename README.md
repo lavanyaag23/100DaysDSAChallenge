@@ -111,6 +111,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |   └── Question1.java
 ├── Day_32/
 |   └── Question1.java
+├── Day_33/
+|   └── Question1.java
 ├── ...
 └── README.md
 ```
@@ -151,9 +153,9 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 30** | Polynomial Using Linked List                                                  | ✅ Completed |
 | **Day 31** | Implement Stack Using Array (Push, Pop, Display)                               | ✅ Completed |
 | **Day 32** | Stack Push and Pop Operations                                                  | ✅ Completed |
+| **Day 33** | Infix to Postfix Conversion Using Stack                                        | ✅ Completed |
 |   **...**  | ...                                                                            |     ...      |
 | **Day 100** | Coming Soon                                                                   | ⏳ Pending   |
-
 ## 📚 Topics Covered
 
 * Arrays
