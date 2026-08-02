@@ -144,6 +144,9 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ├── Day_36/
 │   └── Question1.java
 │
+├── Day_37/
+│   └── Question1.java
+│
 ├── ...
 └── README.md
 ```
@@ -188,7 +191,8 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 | **Day 34** | Evaluate Postfix Expression Using Stack                                        | ✅ Completed |
 | **Day 35** | Queue Using Array                                                              | ✅ Completed |
 | **Day 36** | Circular Queue Using Array                                                     | ✅ Completed |
-| **...**    | ...                                                                            |      ...     |
+| **Day 37** | Priority Queue Using Array                                                     | ✅ Completed |
+| **...**    | ...                                                                            |     ...      |
 | **Day 100**| Coming Soon                                                                    | ⏳ Pending   |
 
 
