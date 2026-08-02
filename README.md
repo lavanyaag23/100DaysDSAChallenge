@@ -137,7 +137,11 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │
 ├── Day_34/
 │   └── Question1.java
+│
 ├── Day_35/
+│   └── Question1.java
+│
+├── Day_36/
 │   └── Question1.java
 │
 ├── ...
@@ -183,6 +187,7 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 | **Day 33** | Infix to Postfix Conversion Using Stack                                        | ✅ Completed |
 | **Day 34** | Evaluate Postfix Expression Using Stack                                        | ✅ Completed |
 | **Day 35** | Queue Using Array                                                              | ✅ Completed |
+| **Day 36** | Circular Queue Using Array                                                     | ✅ Completed |
 | **...**    | ...                                                                            |      ...     |
 | **Day 100**| Coming Soon                                                                    | ⏳ Pending   |
 
