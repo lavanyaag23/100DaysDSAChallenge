@@ -144,8 +144,21 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ├── Day_36/
 │   └── Question1.java
 │
+├── Day_37/
+│   └── Question1.java
+
+├── Day_38/
+│   └── Question1.java
+│
+├── Day_39/
+│   └── Question1.java
+│
+├── Day_40/
+│   └── Question1.java
+│
 ├── ...
 └── README.md
+
 ```
 
 ## 📅 Progress Tracker
@@ -188,11 +201,15 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 | **Day 34** | Evaluate Postfix Expression Using Stack                                        | ✅ Completed |
 | **Day 35** | Queue Using Array                                                              | ✅ Completed |
 | **Day 36** | Circular Queue Using Array                                                     | ✅ Completed |
-| **...**    | ...                                                                            |      ...     |
+| **Day 37** | Priority Queue Using Array                                                     | ✅ Completed |
+| **Day 38** | Min Heap Using Array                                                           | ✅ Completed |
+| **Day 39** | Deque (Double-Ended Queue) Operations                                          | ✅ Completed |
+| **Day 40** | Heap Sort Using Max Heap                                                       | ✅ Completed |
+| **...**    | ...                                                                            |     ...      |
 | **Day 100**| Coming Soon                                                                    | ⏳ Pending   |
 
-
 ## 📚 Topics Covered
+
 * Arrays
 * Strings
 * Searching
@@ -206,6 +223,11 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Expression Conversion (Infix → Postfix)
 * Expression Evaluation (Postfix)
 * Queues
+* Circular Queues
+* Priority Queues
+* Deques (Double-Ended Queues)
+* Heaps
+* Heap Sort
 * Trees
 * Graphs
 * Hashing
