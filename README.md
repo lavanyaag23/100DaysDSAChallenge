@@ -29,6 +29,7 @@ This repository contains only the **GFG/VS Code practice problems** completed du
 All **LeetCode solutions** are maintained separately in my dedicated **LeetCode repository** to keep both repositories organized.
 
 ---
+
 ## 📁 Repository Structure
 
 ```text
@@ -146,7 +147,7 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │
 ├── Day_37/
 │   └── Question1.java
-
+│
 ├── Day_38/
 │   └── Question1.java
 │
@@ -156,15 +157,25 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ├── Day_40/
 │   └── Question1.java
 │
+├── Day_41/
+│   └── Question1.java
+│
+├── Day_42/
+│   └── Question1.java
+│
+├── Day_43/
+│   └── Question1.java
+│
 ├── ...
 └── README.md
-
 ```
+
+---
 
 ## 📅 Progress Tracker
 
 |     Day     | Problems Solved                                                               |    Status   |
-| :---------: | ----------------------------------------------------------------------------- | :---------: |
+| :---------: | :---------------------------------------------------------------------------- | :---------: |
 |  **Day 1**  | Insert an Element in an Array, Two Sum (LeetCode)                             | ✅ Completed |
 |  **Day 2**  | Delete an Element from an Array, Best Time to Buy and Sell Stock (LeetCode)   | ✅ Completed |
 |  **Day 3**  | Linear Search with Comparison Count, Missing Number in Array (GeeksforGeeks)  | ✅ Completed |
@@ -191,24 +202,31 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 24** | Delete First Occurrence of a Key in Linked List                               | ✅ Completed |
 |  **Day 25** | Count Occurrences of an Element in Linked List                                | ✅ Completed |
 |  **Day 26** | Doubly Linked List Insertion and Traversal                                    | ✅ Completed |
-| **Day 27** | Remove Loop in Linked List, Find Intersection Point of Two Linked Lists        | ✅ Completed |
-| **Day 28** | Circular Linked List Creation and Traversal                                    | ✅ Completed |
-|  **Day 29** |  Rotate Linked List Right by K Places                                         | ✅ Completed |
+|  **Day 27** | Remove Loop in Linked List, Find Intersection Point of Two Linked Lists       | ✅ Completed |
+|  **Day 28** | Circular Linked List Creation and Traversal                                   | ✅ Completed |
+|  **Day 29** | Rotate Linked List Right by K Places                                          | ✅ Completed |
 |  **Day 30** | Polynomial Using Linked List                                                  | ✅ Completed |
-| **Day 31** | Implement Stack Using Array (Push, Pop, Display)                               | ✅ Completed |
-| **Day 32** | Stack Push and Pop Operations                                                  | ✅ Completed |
-| **Day 33** | Infix to Postfix Conversion Using Stack                                        | ✅ Completed |
-| **Day 34** | Evaluate Postfix Expression Using Stack                                        | ✅ Completed |
-| **Day 35** | Queue Using Array                                                              | ✅ Completed |
-| **Day 36** | Circular Queue Using Array                                                     | ✅ Completed |
-| **Day 37** | Priority Queue Using Array                                                     | ✅ Completed |
-| **Day 38** | Min Heap Using Array                                                           | ✅ Completed |
-| **Day 39** | Deque (Double-Ended Queue) Operations                                          | ✅ Completed |
-| **Day 40** | Heap Sort Using Max Heap                                                       | ✅ Completed |
-| **...**    | ...                                                                            |     ...      |
-| **Day 100**| Coming Soon                                                                    | ⏳ Pending   |
+|  **Day 31** | Implement Stack Using Array (Push, Pop, Display)                              | ✅ Completed |
+|  **Day 32** | Stack Push and Pop Operations                                                 | ✅ Completed |
+|  **Day 33** | Infix to Postfix Conversion Using Stack                                       | ✅ Completed |
+|  **Day 34** | Evaluate Postfix Expression Using Stack                                       | ✅ Completed |
+|  **Day 35** | Queue Using Array                                                             | ✅ Completed |
+|  **Day 36** | Circular Queue Using Array                                                    | ✅ Completed |
+|  **Day 37** | Priority Queue Using Array                                                    | ✅ Completed |
+|  **Day 38** | Min Heap Using Array                                                          | ✅ Completed |
+|  **Day 39** | Deque (Double-Ended Queue) Operations                                         | ✅ Completed |
+|  **Day 40** | Heap Sort Using Max Heap                                                      | ✅ Completed |
+|  **Day 41** | Queue Using Linked List                                                       | ✅ Completed |
+|  **Day 42** | Reverse Queue Using Stack                                                     | ✅ Completed |
+|  **Day 43** | Construct Binary Tree from Level-Order Traversal and Print Inorder Traversal  | ✅ Completed |
+|   **...**   | ...                                                                           |     ...     |
+| **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
+
+---
 
 ## 📚 Topics Covered
+
+### Arrays & Strings
 
 * Arrays
 * Strings
@@ -218,22 +236,59 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Recursion
 * Bit Manipulation
 * Matrices
-* Linked Lists
-* Stacks
-* Expression Conversion (Infix → Postfix)
-* Expression Evaluation (Postfix)
-* Queues
-* Circular Queues
-* Priority Queues
-* Deques (Double-Ended Queues)
-* Heaps
+
+### Linked Lists
+
+* Singly Linked Lists
+* Doubly Linked Lists
+* Circular Linked Lists
+* Linked List Traversal
+* Linked List Insertion and Deletion
+* Linked List Merging
+* Loop Detection and Removal
+* Linked List Intersection
+* Polynomial Representation Using Linked List
+
+### Stacks
+
+* Stack Using Array
+* Stack Operations
+* Infix to Postfix Conversion
+* Postfix Expression Evaluation
+
+### Queues
+
+* Queue Using Array
+* Circular Queue
+* Priority Queue
+* Deque (Double-Ended Queue)
+* Queue Using Linked List
+* Reverse Queue Using Stack
+
+### Heaps
+
+* Min Heap
+* Max Heap
 * Heap Sort
-* Trees
+* Heap Operations
+
+### Trees
+
+* Binary Trees
+* Level-Order Tree Construction
+* Inorder Traversal
+* Tree Traversal
+
+### Upcoming Topics
+
+* Binary Search Trees
+* Tree Traversals
 * Graphs
 * Hashing
 * Dynamic Programming
 * Greedy Algorithms
 * Backtracking
+
 ---
 
 ## 💡 Challenge Rules
