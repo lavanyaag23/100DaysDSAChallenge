@@ -165,7 +165,20 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │
 ├── Day_43/
 │   └── Question1.java
+├── Day_44/
+│   └── Question1.java
 │
+├── Day_45/
+│   └── Question1.java
+│
+├── Day_46/
+│   └── Question1.java
+│
+├── Day_47/
+│   └── Question1.java
+│
+├── Day_48/
+│   └── Question1.java
 ├── ...
 └── README.md
 ```
@@ -219,7 +232,12 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 41** | Queue Using Linked List                                                       | ✅ Completed |
 |  **Day 42** | Reverse Queue Using Stack                                                     | ✅ Completed |
 |  **Day 43** | Construct Binary Tree from Level-Order Traversal and Print Inorder Traversal  | ✅ Completed |
-|   **...**   | ...                                                                           |     ...     |
+| **Day 44** | Inorder, Preorder, and Postorder Tree Traversals                               | ✅ Completed |
+| **Day 45** | Height of Binary Tree                                                          | ✅ Completed |
+| **Day 46** | Level Order Traversal                                                          | ✅ Completed |
+| **Day 47** | Count Leaf Nodes in Binary Tree                                                | ✅ Completed |
+| **Day 48** | Binary Tree Problem                                                            | ✅ Completed |
+|   **...**   | ...                                                                           |     ...       |
 | **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
 
 ---
@@ -269,20 +287,24 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 
 * Min Heap
 * Max Heap
-* Heap Sort
 * Heap Operations
+* Heap Sort
 
 ### Trees
 
 * Binary Trees
 * Level-Order Tree Construction
 * Inorder Traversal
-* Tree Traversal
+* Preorder Traversal
+* Postorder Traversal
+* Level-Order Traversal
+* Binary Tree Height
+* Counting Leaf Nodes
 
 ### Upcoming Topics
 
 * Binary Search Trees
-* Tree Traversals
+* Advanced Binary Tree Problems
 * Graphs
 * Hashing
 * Dynamic Programming
