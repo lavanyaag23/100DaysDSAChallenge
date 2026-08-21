@@ -36,10 +36,10 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 100DaysDSAChallenge/
 │
 ├── Day-1/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-2/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-3/
 │   ├── Question1.java
@@ -49,70 +49,70 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   └── Question1.java
 │
 ├── Day-5/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-6/
 │   └── Question1.java
 │
 ├── Day-7/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-8/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-9/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-10/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-11/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-12/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-13/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-14/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-15/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-16/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-17/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-18/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-19/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-20/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-21/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-22/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-23/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-24/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-25/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day-26/
-│   ├── Question1.java
+│   └── Question1.java
 │
 ├── Day_27/
 │   ├── Question1.java
@@ -165,6 +165,7 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │
 ├── Day_43/
 │   └── Question1.java
+│
 ├── Day_44/
 │   └── Question1.java
 │
@@ -179,66 +180,99 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │
 ├── Day_48/
 │   └── Question1.java
+│
+├── Day_49/
+│   └── Question1.java
+│
+├── Day_50/
+│   └── Question1.java
+│
+├── Day_51/
+│   └── Question1.java
+│
+├── Day_52/
+│   └── Question1.java
+│
+├── Day_53/
+│   └── Question1.java
+│
+├── Day_54/
+│   └── Question1.java
+│
+├── Day_55/
+│   └── Question1.java
+│
+├── Day_56/
+│   └── Question1.java
+│
 ├── ...
+│
 └── README.md
-```
-
 ---
 
 ## 📅 Progress Tracker
 
-|     Day     | Problems Solved                                                               |    Status   |
-| :---------: | :---------------------------------------------------------------------------- | :---------: |
-|  **Day 1**  | Insert an Element in an Array, Two Sum (LeetCode)                             | ✅ Completed |
-|  **Day 2**  | Delete an Element from an Array, Best Time to Buy and Sell Stock (LeetCode)   | ✅ Completed |
-|  **Day 3**  | Linear Search with Comparison Count, Missing Number in Array (GeeksforGeeks)  | ✅ Completed |
-|  **Day 4**  | Reverse an Array Using Two-Pointer Approach                                   | ✅ Completed |
-|  **Day 5**  | Merge Sorted Array (LeetCode), Merge Two Sorted Arrays                        | ✅ Completed |
-|  **Day 6**  | Remove Duplicates from Sorted Array                                           | ✅ Completed |
-|  **Day 7**  | Fibonacci Number (LeetCode), Recursive Fibonacci                              | ✅ Completed |
-|  **Day 8**  | Power of Two (LeetCode), Power Using Recursion                                | ✅ Completed |
-|  **Day 9**  | Reverse String (LeetCode), Reverse String Using Recursion                     | ✅ Completed |
-|  **Day 10** | Intersection of Two Arrays II (LeetCode), Palindrome Check Using Two Pointers | ✅ Completed |
-|  **Day 11** | Matrix Addition                                                               | ✅ Completed |
-|  **Day 12** | Toeplitz Matrix (LeetCode), Symmetric Matrix Check                            | ✅ Completed |
-|  **Day 13** | Spiral Matrix (LeetCode), Spiral Matrix Traversal                             | ✅ Completed |
-|  **Day 14** | Rotate Image (LeetCode), Identity Matrix Check                                | ✅ Completed |
-|  **Day 15** | Set Matrix Zeroes (LeetCode), Primary Diagonal Sum                            | ✅ Completed |
-|  **Day 16** | Frequency Count of Array Elements                                             | ✅ Completed |
-|  **Day 17** | Maximum and Minimum Element in an Array                                       | ✅ Completed |
-|  **Day 18** | Array Rotation by K Positions                                                 | ✅ Completed |
-|  **Day 19** | Pair Sum Closest to Zero, Maximum Sum Circular Subarray (LeetCode)            | ✅ Completed |
-|  **Day 20** | Zero Sum Subarray Count, 3Sum (LeetCode)                                      | ✅ Completed |
-|  **Day 21** | Create and Traverse Singly Linked List                                        | ✅ Completed |
-|  **Day 22** | Count Nodes in Linked List                                                    | ✅ Completed |
-|  **Day 23** | Merge Two Sorted Linked Lists                                                 | ✅ Completed |
-|  **Day 24** | Delete First Occurrence of a Key in Linked List                               | ✅ Completed |
-|  **Day 25** | Count Occurrences of an Element in Linked List                                | ✅ Completed |
-|  **Day 26** | Doubly Linked List Insertion and Traversal                                    | ✅ Completed |
-|  **Day 27** | Remove Loop in Linked List, Find Intersection Point of Two Linked Lists       | ✅ Completed |
-|  **Day 28** | Circular Linked List Creation and Traversal                                   | ✅ Completed |
-|  **Day 29** | Rotate Linked List Right by K Places                                          | ✅ Completed |
-|  **Day 30** | Polynomial Using Linked List                                                  | ✅ Completed |
-|  **Day 31** | Implement Stack Using Array (Push, Pop, Display)                              | ✅ Completed |
-|  **Day 32** | Stack Push and Pop Operations                                                 | ✅ Completed |
-|  **Day 33** | Infix to Postfix Conversion Using Stack                                       | ✅ Completed |
-|  **Day 34** | Evaluate Postfix Expression Using Stack                                       | ✅ Completed |
-|  **Day 35** | Queue Using Array                                                             | ✅ Completed |
-|  **Day 36** | Circular Queue Using Array                                                    | ✅ Completed |
-|  **Day 37** | Priority Queue Using Array                                                    | ✅ Completed |
-|  **Day 38** | Min Heap Using Array                                                          | ✅ Completed |
-|  **Day 39** | Deque (Double-Ended Queue) Operations                                         | ✅ Completed |
-|  **Day 40** | Heap Sort Using Max Heap                                                      | ✅ Completed |
-|  **Day 41** | Queue Using Linked List                                                       | ✅ Completed |
-|  **Day 42** | Reverse Queue Using Stack                                                     | ✅ Completed |
-|  **Day 43** | Construct Binary Tree from Level-Order Traversal and Print Inorder Traversal  | ✅ Completed |
-| **Day 44** | Inorder, Preorder, and Postorder Tree Traversals                               | ✅ Completed |
-| **Day 45** | Height of Binary Tree                                                          | ✅ Completed |
-| **Day 46** | Level Order Traversal                                                          | ✅ Completed |
-| **Day 47** | Count Leaf Nodes in Binary Tree                                                | ✅ Completed |
-| **Day 48** | Binary Tree Problem                                                            | ✅ Completed |
-|   **...**   | ...                                                                           |     ...       |
-| **Day 100** | Coming Soon                                                                   |  ⏳ Pending  |
+| Day | Problems Solved | Status |
+|:---:|:---|:---:|
+| **Day 1** | Insert an Element in an Array, Two Sum (LeetCode) | ✅ Completed |
+| **Day 2** | Delete an Element from an Array, Best Time to Buy and Sell Stock (LeetCode) | ✅ Completed |
+| **Day 3** | Linear Search with Comparison Count, Missing Number in Array | ✅ Completed |
+| **Day 4** | Reverse an Array Using Two-Pointer Approach | ✅ Completed |
+| **Day 5** | Merge Sorted Array, Merge Two Sorted Arrays | ✅ Completed |
+| **Day 6** | Remove Duplicates from Sorted Array | ✅ Completed |
+| **Day 7** | Fibonacci Number, Recursive Fibonacci | ✅ Completed |
+| **Day 8** | Power of Two, Power Using Recursion | ✅ Completed |
+| **Day 9** | Reverse String, Reverse String Using Recursion | ✅ Completed |
+| **Day 10** | Intersection of Two Arrays II, Palindrome Check Using Two Pointers | ✅ Completed |
+| **Day 11** | Matrix Addition | ✅ Completed |
+| **Day 12** | Toeplitz Matrix, Symmetric Matrix Check | ✅ Completed |
+| **Day 13** | Spiral Matrix, Spiral Matrix Traversal | ✅ Completed |
+| **Day 14** | Rotate Image, Identity Matrix Check | ✅ Completed |
+| **Day 15** | Set Matrix Zeroes, Primary Diagonal Sum | ✅ Completed |
+| **Day 16** | Frequency Count of Array Elements | ✅ Completed |
+| **Day 17** | Maximum and Minimum Element in an Array | ✅ Completed |
+| **Day 18** | Array Rotation by K Positions | ✅ Completed |
+| **Day 19** | Pair Sum Closest to Zero, Maximum Sum Circular Subarray | ✅ Completed |
+| **Day 20** | Zero Sum Subarray Count, 3Sum | ✅ Completed |
+| **Day 21** | Create and Traverse Singly Linked List | ✅ Completed |
+| **Day 22** | Count Nodes in Linked List | ✅ Completed |
+| **Day 23** | Merge Two Sorted Linked Lists | ✅ Completed |
+| **Day 24** | Delete First Occurrence of a Key in Linked List | ✅ Completed |
+| **Day 25** | Count Occurrences of an Element in Linked List | ✅ Completed |
+| **Day 26** | Doubly Linked List Insertion and Traversal | ✅ Completed |
+| **Day 27** | Remove Loop, Find Intersection Point of Two Linked Lists | ✅ Completed |
+| **Day 28** | Circular Linked List Creation and Traversal | ✅ Completed |
+| **Day 29** | Rotate Linked List Right by K Places | ✅ Completed |
+| **Day 30** | Polynomial Using Linked List | ✅ Completed |
+| **Day 31** | Implement Stack Using Array | ✅ Completed |
+| **Day 32** | Stack Push and Pop Operations | ✅ Completed |
+| **Day 33** | Infix to Postfix Conversion Using Stack | ✅ Completed |
+| **Day 34** | Evaluate Postfix Expression Using Stack | ✅ Completed |
+| **Day 35** | Queue Using Array | ✅ Completed |
+| **Day 36** | Circular Queue Using Array | ✅ Completed |
+| **Day 37** | Priority Queue Using Array | ✅ Completed |
+| **Day 38** | Min Heap Using Array | ✅ Completed |
+| **Day 39** | Deque Operations | ✅ Completed |
+| **Day 40** | Heap Sort Using Max Heap | ✅ Completed |
+| **Day 41** | Queue Using Linked List | ✅ Completed |
+| **Day 42** | Reverse Queue Using Stack | ✅ Completed |
+| **Day 43** | Binary Tree Construction and Inorder Traversal | ✅ Completed |
+| **Day 44** | Inorder, Preorder and Postorder Tree Traversals | ✅ Completed |
+| **Day 45** | Height / Maximum Depth of Binary Tree | ✅ Completed |
+| **Day 46** | Binary Tree Level Order Traversal | ✅ Completed |
+| **Day 47** | Count Leaf Nodes in Binary Tree | ✅ Completed |
+| **Day 48** | Insert into a Binary Search Tree | ✅ Completed |
+| **Day 49** | Binary Search Tree Practice | ✅ Completed |
+| **Day 50** | Search in a Binary Search Tree | ✅ Completed |
+| **Day 51** | Lowest Common Ancestor of a Binary Search Tree | ✅ Completed |
+| **Day 52** | Lowest Common Ancestor of a Binary Tree | ✅ Completed |
+| **Day 53** | Binary Tree Vertical Order Traversal | ✅ Completed |
+| **Day 54** | Binary Tree Zigzag Level Order Traversal | ✅ Completed |
+| **Day 55** | Binary Tree Right Side View | ✅ Completed |
+| **Day 56** | Symmetric Binary Tree | ✅ Completed |
+| **Day 57** | Coming Soon | ⏳ Pending |
+| **...** | ... | ... |
+| **Day 100** | Coming Soon | ⏳ Pending |
 
 ---
 
@@ -297,14 +331,23 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Inorder Traversal
 * Preorder Traversal
 * Postorder Traversal
-* Level-Order Traversal
-* Binary Tree Height
-* Counting Leaf Nodes
-
+* Level Order Traversal
+* Height / Maximum Depth of Binary Tree
+* Leaf Node Counting
+* Binary Search Trees
+* BST Insertion
+* BST Search
+* Lowest Common Ancestor in BST
+* Lowest Common Ancestor in Binary Tree
+* Vertical Order Traversal
+* Zigzag Level Order Traversal
+* Right Side View
+* Symmetric Binary Tree
+  
 ### Upcoming Topics
 
-* Binary Search Trees
-* Advanced Binary Tree Problems
+* Binary Search Trees — Advanced Operations
+* Tree Views and Advanced Traversals
 * Graphs
 * Hashing
 * Dynamic Programming
