@@ -202,7 +202,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 66** | Coming Soon                                                                            |  ⏳ Pending  |
 |   **...**   | ...                                                                                    |     ...     |
 | **Day 100** | Coming Soon                                                                            |  ⏳ Pending  |
-
 ---
 
 ## 📚 Topics Covered
@@ -301,7 +300,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Dynamic Programming
 * Greedy Algorithms
 * Backtracking
-
 ---
 
 ## 💡 Challenge Rules
@@ -310,7 +308,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Write clean and optimized Java solutions
 * Push code to GitHub daily
 * Maintain consistency throughout the challenge
-
 ---
 
 ## 📈 Challenge Goal
@@ -319,7 +316,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * **Language:** Java
 * **Focus:** Data Structures & Algorithms
 * **Goal:** Build a strong DSA foundation and improve interview readiness
-
 ---
 
 ## 🌟 Why This Repository?
@@ -329,7 +325,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Improve problem-solving skills
 * Create a strong GitHub portfolio
 * Document my learning journey
-
 ---
 
 ## 📝 Note
@@ -343,7 +338,6 @@ LeetCode solutions are maintained separately in my dedicated **LeetCode reposito
 If you're also practicing DSA or participating in a coding challenge, feel free to explore this repository and follow my journey.
 
 **Happy Coding! 🚀**
-
 ---
 
 ⭐ **If you find this repository helpful, consider giving it a star!**
