@@ -303,7 +303,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ---
 
 ## 💡 Challenge Rules
-
 * Solve at least **one DSA problem every day**
 * Write clean and optimized Java solutions
 * Push code to GitHub daily
@@ -311,7 +310,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ---
 
 ## 📈 Challenge Goal
-
 * **Duration:** 100 Days
 * **Language:** Java
 * **Focus:** Data Structures & Algorithms
@@ -319,7 +317,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ---
 
 ## 🌟 Why This Repository?
-
 * Track my daily coding progress
 * Build coding consistency
 * Improve problem-solving skills
@@ -328,13 +325,11 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 ---
 
 ## 📝 Note
-
 This repository contains the **GFG/VS Code practice implementations** completed during my 100 Days DSA Challenge.
 
 LeetCode solutions are maintained separately in my dedicated **LeetCode repository** to keep both repositories organized.
 
 ## 🤝 Connect
-
 If you're also practicing DSA or participating in a coding challenge, feel free to explore this repository and follow my journey.
 
 **Happy Coding! 🚀**
