@@ -51,68 +51,10 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   └── Question1.java
 ├── Day_29/
 │   └── Question1.java
-├── Day_30/
-│   └── Question1.java
-├── Day_31/
-│   └── Question1.java
-├── Day_32/
-│   └── Question1.java
-├── Day_33/
-│   └── Question1.java
-├── Day_34/
-│   └── Question1.java
-├── Day_35/
-│   └── Question1.java
-├── Day_36/
-│   └── Question1.java
-├── Day_37/
-│   └── Question1.java
-├── Day_38/
-│   └── Question1.java
-├── Day_39/
-│   └── Question1.java
-├── Day_40/
-│   └── Question1.java
-├── Day_41/
-│   └── Question1.java
-├── Day_42/
-│   └── Question1.java
-├── Day_43/
-│   └── Question1.java
-├── Day_44/
-│   └── Question1.java
-├── Day_45/
-│   └── Question1.java
-├── Day_46/
-│   └── Question1.java
-├── Day_47/
-│   └── Question1.java
-├── Day_48/
-│   └── Question1.java
-├── Day_49/
-│   └── Question1.java
-├── Day_50/
-│   └── Question1.java
-├── Day_51/
-│   └── Question1.java
-├── Day_52/
-│   └── Question1.java
-├── Day_53/
-│   └── Question1.java
-├── Day_54/
-│   └── Question1.java
-├── Day_55/
-│   └── Question1.java
-├── Day_56/
-│   └── Question1.java
-├── Day_57/
-│   └── Question1.java
-├── Day_58/
-│   └── Question1.java
-├── Day_59/
-│   └── Question1.java
+├── ...
 ├── Day_60/
 │   └── Question1.java
+│
 ├── Day_61/
 │   └── Question1.java
 ├── Day_62/
@@ -121,14 +63,14 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 │   └── Question1.java
 ├── Day_64/
 │   └── Question1.java
+│
 ├── Day_65/
 │   ├── Question1.java
 │   └── Question2.java
 │
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## 📅 Progress Tracker
 
@@ -202,7 +144,6 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 |  **Day 66** | Coming Soon                                                                            |  ⏳ Pending  |
 |   **...**   | ...                                                                                    |     ...     |
 | **Day 100** | Coming Soon                                                                            |  ⏳ Pending  |
----
 
 ## 📚 Topics Covered
 
@@ -251,6 +192,7 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Max Heap
 * Heap Operations
 * Heap Sort
+* Min-Heap Property Checking
 
 ### Trees
 
@@ -274,65 +216,71 @@ All **LeetCode solutions** are maintained separately in my dedicated **LeetCode 
 * Mirror Binary Tree
 * Construct Tree from Preorder and Inorder
 * Construct Tree from Inorder and Postorder
-* Binary Tree Cameras
 
 ### Graphs
 
 * Graph Representation
 * Adjacency Matrix
+* Adjacency List
 * Directed and Undirected Graphs
 * Graph Traversal
 * Breadth-First Search (BFS)
 * Depth-First Search (DFS)
-* Connected Components / Provinces
+* Flood Fill
 * Undirected Graph Cycle Detection using BFS
 * Undirected Graph Cycle Detection using DFS
 * Parent Tracking in Graph Traversal
-  
+
 ### Upcoming Topics
 
-* Graph BFS and DFS
 * Connected Components
 * Shortest Path Algorithms
 * Topological Sorting
-* Cycle Detection
+* Bipartite Graphs
+* Advanced Cycle Detection
 * Hashing
 * Dynamic Programming
 * Greedy Algorithms
 * Backtracking
----
 
 ## 💡 Challenge Rules
+
 * Solve at least **one DSA problem every day**
 * Write clean and optimized Java solutions
 * Push code to GitHub daily
 * Maintain consistency throughout the challenge
----
 
 ## 📈 Challenge Goal
+
 * **Duration:** 100 Days
 * **Language:** Java
 * **Focus:** Data Structures & Algorithms
 * **Goal:** Build a strong DSA foundation and improve interview readiness
----
 
 ## 🌟 Why This Repository?
+
 * Track my daily coding progress
 * Build coding consistency
 * Improve problem-solving skills
 * Create a strong GitHub portfolio
 * Document my learning journey
----
 
 ## 📝 Note
+
 This repository contains the **GFG/VS Code practice implementations** completed during my 100 Days DSA Challenge.
 
 LeetCode solutions are maintained separately in my dedicated **LeetCode repository** to keep both repositories organized.
 
 ## 🤝 Connect
+
 If you're also practicing DSA or participating in a coding challenge, feel free to explore this repository and follow my journey.
 
 **Happy Coding! 🚀**
+
 ---
 
 ⭐ **If you find this repository helpful, consider giving it a star!**
+
+
+---
+
